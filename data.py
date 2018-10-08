@@ -2,7 +2,7 @@ import requests
 import json
 
 
-API_KEY = 'f797be13-6a8c-48dc-a5bc-96e4d091be32'
+API_KEY = 'secret_key'
 city_list = []
 info_list = []
 
